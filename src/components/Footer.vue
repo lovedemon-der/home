@@ -62,7 +62,7 @@ const siteUrl = computed(() => {
   if (!url) return "https://www.imsyy.top";
   // 判断协议前缀
   if (!url.startsWith("http://") && !url.startsWith("https://")) {
-    return "//" + url;
+    return "";
   }
   return url;
 });

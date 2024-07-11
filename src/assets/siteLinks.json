@@ -1,6 +1,6 @@
 [
   {
-    "icon": "/images/icon/bilibili.png",
+    "icon": "fa-brands fa-bilibili",
     "name": "我的B站",
     "link": "https://space.bilibili.com/1337092956"
   },

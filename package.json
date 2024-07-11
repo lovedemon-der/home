@@ -1,8 +1,8 @@
 {
   "name": "home",
   "author": "柚明",
-  "github": "",
-  "home": "",
+  "github": "https://home.youming.dns.army/",
+  "home": "https://home.youming.dns.army/",
   "private": true,
   "version": "4.1.4",
   "type": "module",

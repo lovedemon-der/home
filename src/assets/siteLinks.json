@@ -1,6 +1,6 @@
 [
   {
-    "icon": "bilibili",
+    "icon": "images/icon/bilibili.png",
     "name": "我的B站",
     "link": "https://space.bilibili.com/1337092956"
   },
@@ -15,22 +15,22 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "/images/icon/email.png",
+    "icon": "images/icon/email.png",
     "name": "反馈",
     "link": "https://you-ming.feishu.cn/share/base/form/shrcnPXFd1kjeiaoPTkQlHZ1jhb?iframeFrom=docx&ccm_open=iframe"
   },
   {
-    "icon": "/images/icon/key.png",
+    "icon": "images/icon/key.png",
     "name": "获取权限",
     "link": "https://you-ming.feishu.cn/share/base/form/shrcn0cy7MvgHQiajVARK7OmSZf?iframeFrom=docx&ccm_open=iframe"
   },
   {
-    "icon": "/images/icon/warn.png",
+    "icon": "images/icon/warn.png",
     "name": "举报",
     "link": "https://you-ming.feishu.cn/share/base/form/shrcngg2h2f2X7RJOiwy28tDjFf?iframeFrom=docx&ccm_open=iframe"
   },
   {
-    "icon": "/images/icon/inspiration.png",
+    "icon": "images/icon/inspiration.png",
     "name": "发送灵感",
     "link": "https://you-ming.feishu.cn/share/base/form/shrcnPXFd1kjeiaoPTkQlHZ1jhb?iframeFrom=docx&ccm_open=iframe"
   }

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/1337092956"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "欢迎来水群 ~",
+    "url": "https://qm.qq.com/q/OZBoczUb0u"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:3597489556@qq.com"
+  }
+]

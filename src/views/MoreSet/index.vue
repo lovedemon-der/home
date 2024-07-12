@@ -18,8 +18,7 @@
         </div>
         <div class="version">
           <div class="num">v&nbsp;{{ config.version }}</div>
-          <el-tooltip content="Github 源代码仓库" placement="right" :show-arrow="false">
-            <github-one class="github" theme="outline" size="24" @click="jumpTo(config.github)" />
+          <el-tooltip content="基于 Github 项目" placement="right" :show-arrow="false">
           </el-tooltip>
         </div>
         <el-card class="update">
@@ -75,10 +74,14 @@ const siteUrl = computed(() => {
 // 更新日志
 const upData = reactive({
   new: [
-    "基于 Github 重构主页",
+    "基于 Github 项目重构主页",
+	"使用 cloudflare 部署主页",
+	"使用 dynv6 自定义主页域名",
     "开发中...",
   ],
-  fix: ["修复了网站的一些问题",
+  fix: [
+	"修复了「播放器」的一些问题",
+	"修复了网站的一些问题",
   ],
 });
 

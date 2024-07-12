@@ -4,7 +4,7 @@
   "github": "https://home.youming.dns.army/",
   "home": "https://home.youming.dns.army/",
   "private": true,
-  "version": "4.1.4",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite --host",

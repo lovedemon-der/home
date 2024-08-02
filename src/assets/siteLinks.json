@@ -7,7 +7,7 @@
   {
     "icon": "Book",
     "name": "作品文档",
-    "link": "https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-MvXLdaMYuoM2VXx5vx4cdUKlnQe"
+    "link": "https://work.youming.dns.army/"
   },
   {
     "icon": "LaptopCode",
@@ -32,27 +32,37 @@
   {
     "icon": "LaptopCode",
     "name": "鼠标指针",
-    "link": "https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-S3izda6b6oMQgKxqsRbcWWiOngd"
+    "link": "https://work.youming.dns.army/作品文档/MC%20鼠标指针.html"
   },
   {
     "icon": "LaptopCode",
     "name": "Mindows 11",
-    "link": "https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-YBXWdBUU3o1X76x37kXcqbngnSf"
+    "link": "https://work.youming.dns.army/作品文档/Mindows11.html"
   },
   {
     "icon": "LaptopCode",
     "name": "Yormong OS",
-    "link": "https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-TiLedVraQoITIlxmj8rcYraznZT"
+    "link": "https://work.youming.dns.army/作品文档/Yormong%20OS.html"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Yormong OS NEXT",
+    "link": "https://work.youming.dns.army/作品文档/Yormong%20OS%20NEXT.html"
   },
   {
     "icon": "LaptopCode",
     "name": "YM 虚拟机",
-    "link": "https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-JRhfdZk3NolZiLxVKbuc0OOgnfe"
+    "link": "https://work.youming.dns.army/作品文档/YM%20虚拟机.html"
   },
   {
     "icon": "LaptopCode",
     "name": "YM 安全中心",
-    "link": "https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-RcFSdT2rPod8Ibxdnbdc0sRknme"
+    "link": "https://work.youming.dns.army/作品文档/YM%20安全中心.html"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "作品文档",
+    "link": "https://work.youming.dns.army/作品文档/作品文档.html"
   },
   {
     "icon": "Fire",
